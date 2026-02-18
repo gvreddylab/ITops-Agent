@@ -1,0 +1,10 @@
+{
+  "servers": {
+    "policy-rag": {
+      "type": "stdio",
+      "command": "/ABSOLUTE/PATH/TO/policy-rag-agent/.venv/bin/python",
+      "args": ["-m", "src.mcp_server"],
+      "cwd": "/ABSOLUTE/PATH/TO/policy-rag-agent"
+    }
+  }
+}

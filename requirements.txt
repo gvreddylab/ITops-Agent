@@ -1,0 +1,16 @@
+fastapi
+uvicorn[standard]
+python-dotenv
+
+pypdf
+python-docx
+docx2txt
+
+chromadb
+tiktoken
+requests
+httpx
+
+pyyaml
+streamlit
+mcp

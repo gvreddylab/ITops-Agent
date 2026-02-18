@@ -1,0 +1,11 @@
+required_fields:
+  incident_title: "What is the incident title (short summary)?"
+  affected_service: "Which service/application is impacted (e.g., Core Banking, Payments, WMS)?"
+  incident_start_time: "When did the incident start (time + timezone)?"
+  severity: "What severity is this (Sev1/Sev2/Sev3) and why (impact + urgency)?"
+  business_impact: "What is the business impact (customers affected, revenue/SLA impact, channels impacted)?"
+  number_of_users: "Approx how many users/customers are affected?"
+  error_description: "What is the exact symptom/error message (what are users seeing)?"
+  logs_or_screenshots: "Do you have logs, monitoring alerts, error codes, screenshots to attach?"
+  reported_by: "Who reported it (name/team/contact)?"
+
