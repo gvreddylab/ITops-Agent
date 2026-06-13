@@ -626,10 +626,4 @@ make clean      # Remove __pycache__ files
 
 ---
 
-## License
-
-Internal use. Not for public distribution without approval.
-
----
-
 *Built with Ollama · nomic-embed-text · ChromaDB · FastAPI · Streamlit · MCP*
